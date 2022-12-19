@@ -1,5 +1,3 @@
-package homework5;
-
 import java.util.concurrent.*;
 
 public class TheClinic extends Thread {
